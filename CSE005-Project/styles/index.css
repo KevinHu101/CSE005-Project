@@ -63,6 +63,7 @@ a:visited {
 .link-icon {
   object-fit: contain;
   width: 40px;
+  margin: 0;
 }
 
 .topnav {
@@ -103,6 +104,7 @@ li {
 
 img {
   width: 70%;
+  max-height: 60vh;
   display: block;
   margin: auto;
 }
