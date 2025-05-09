@@ -44,6 +44,12 @@ a:visited {
   padding-bottom: 2%;
 }
 
+.byline {
+  font-size: 30px;
+  color: #ffb3e7;
+  font-weight: bolder;
+}
+
 .subtopic-list {
   display: flex;
   flex-direction: column;
